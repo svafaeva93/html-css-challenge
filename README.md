@@ -1,6 +1,6 @@
 # Web Scraping Mars Weather Data 
 
-This assignment consists of two technical products. The following deliverables were prepared:
+This assignment consists of the following deliverables:
 
 Deliverable 1: Scraped titles and previewed text from Mars news articles.
 
